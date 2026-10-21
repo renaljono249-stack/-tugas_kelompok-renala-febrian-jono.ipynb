@@ -6,7 +6,7 @@
 - **Nama:** Renala Febrian Jono
 - **NIM:** 2501010148
 - **Nama:** Herkulano Yorgi Novriandri Simuk
--** Nim **:2501010203
+-*Nim :2501010203
 - Nama:Mikael Gunawan Antul
 - Nim:2501010318
 - Program Studi:** Informatika
